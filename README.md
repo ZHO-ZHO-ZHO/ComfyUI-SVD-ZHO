@@ -1,3 +1,6 @@
+![SVD11_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO/assets/140084057/687ef467-ac9e-476a-b161-9e6f3b989220)
+
+
 # ComfyUI-SVD-ZHO（WIP）
 
 ## 项目说明 | Info
