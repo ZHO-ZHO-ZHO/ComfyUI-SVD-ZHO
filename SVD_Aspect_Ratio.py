@@ -12,7 +12,7 @@ class SVD_Aspect_Ratio_Zho:
     RETURN_NAMES = ("latent",)
     FUNCTION = "latent_ratio"
 
-    CATEGORY = "Zho模块组/🎞️Ratio"
+    CATEGORY = "Zho模块组/🎞️SVD"
 
     def latent_ratio(self, Aspect_Ratio, batch_size=1):
 
