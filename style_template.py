@@ -1,7 +1,7 @@
 style_list = [
     {
         "name": "None",
-        "prompt": "",
+        "prompt": "{prompt}",
         "negative_prompt": "ugly"
     },
     {
