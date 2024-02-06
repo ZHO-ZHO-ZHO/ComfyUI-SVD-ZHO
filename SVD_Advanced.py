@@ -7,7 +7,7 @@ class SVD_Steps_MotionStrength_Seed_Zho:
     def INPUT_TYPES(s):
         return {
             "required": {
-                "steps": ("INT", {"default": 30, "min": 25, "max": 40, "step": 1, "display": "slider"}),
+                "steps": ("INT", {"default": 30, "min": 25, "max": 60, "step": 1, "display": "slider"}),
                 "motion_strength": ("INT", {"default": 127, "min": 1, "max": 255, "display": "slider"}),
                 "seed": ("INT", {"default": 0, "min": 0, "max": 0xffffffffffffffff}),
             }
