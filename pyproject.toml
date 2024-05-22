@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-svd-zho"
+description = "My Workflows + Auxiliary nodes for Stable Video Diffusion (SVD)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-SVD-ZHO"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SVD-ZHO"
+Icon = ""
